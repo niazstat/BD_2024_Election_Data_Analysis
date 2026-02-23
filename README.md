@@ -95,7 +95,7 @@ The project follows a layered data architecture approach:
 
 ✅ End-to-end data platform ownership  
 ✅ Real-world web scraping implementation  
-✅ Large-scale data cleaning & preprocessing  
+✅ medium-scale data cleaning & preprocessing  
 ✅ Structured data modeling for analytics  
 ✅ Insight generation from raw public datasets  
 ✅ Strong analytical thinking and problem-solving  
