@@ -1,4 +1,4 @@
-# Bangladesh National Election Data Analysis  
+# Bangladesh National Election (Held in 2024,January) Data Analysis  
 **End-to-End Data Engineering & Analytics Project**
 
 A portfolio-ready data engineering project that collects, processes, models, and analyzes national election results published by the Election Commission of Bangladesh.
@@ -121,7 +121,20 @@ It showcases readiness for roles in:
 
 ---
 
+## 🧠 Ideal Audience
+
+- 🎓 **Students** who want to learn how real-world data is collected, cleaned, processed, and transformed into actionable insights  
+- 📊 **Aspiring Data Analysts & Data Engineers** looking to understand practical end-to-end data workflows  
+- 🧑‍💼 **Hiring Managers & Recruiters** evaluating depth of data analysis, data modeling, and problem-solving capability  
+- 📈 **BI Professionals** interested in structured, analytics-ready data design
 ## 📂 Repository
+
+## 👤 Author
+
+**Niaz Morshed** 
+*Software Developer (.Net, SQL, ABAP)*
+*Data Engineering & Analytics Enthusiast*
+
 
 ```bash
 git clone https://github.com/niazstat/BD_2024_Election_Data_Analysis.git
